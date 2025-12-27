@@ -3,9 +3,9 @@
 This machine learning project predicts whether a patient has Chronic Kidney Disease based on clinical parameters.
 
 ## 📌 Project Overview
-- Problem Type: Binary Classification
+- Problem Type: RandomForestClassifier
 - Algorithms Used: Logistic Regression / Random Forest / SVM
-- Accuracy Achieved: XX%
+- Accuracy Achieved: 97%
 
 ## 📂 Project Structure
 - data/ → Dataset files
